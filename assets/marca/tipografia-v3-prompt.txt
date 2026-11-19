@@ -1,0 +1,5 @@
+Tool: built-in image_gen (edit).
+Source: tipografia-entredestinos-v2.png
+Output: tipografia-entredestinos-v3.png
+
+Edit this exact title image. Remove the entire decorative loop at lower left and the entire long curved underline/swash beneath the words. Leave ONLY the letters ENTRE on first line in olive green and DESTINOS on second line in terracotta, preserving the existing tall narrow geometric custom letter shapes, colors, stroke weight and staggered two-line arrangement. Shorten the final S to the same baseline and height as the other letters so it has no extended ornamental tail. Preserve natural curves that form letters D R O S; remove only decorative flourishes outside the lettering. Pure white background, crisp opaque flat colors, no paper texture, no guidelines, no additional marks, no shadows. Frame the two-line lettering tightly with modest even margins; complete letters not clipped. Exact text ENTRE DESTINOS. No logos, no loops, no underline, no decorative curves.
